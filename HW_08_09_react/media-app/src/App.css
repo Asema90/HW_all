@@ -1,0 +1,17 @@
+.App {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 40px;
+    
+    position: relative;
+    width: 1440px;
+    height: 2388px;
+    
+    background: #F1F1F1;
+
+}
+
+
+
